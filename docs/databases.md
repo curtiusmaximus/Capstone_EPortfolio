@@ -1,4 +1,4 @@
 ## Artifact Files
 
-- [Enhanced Grazioso Salvare MongoDB Artifact](../downloads/databases/enhanced/)
-- [Enhancement Narrative (Databases)](../downloads/databases/narrative/)
+- [Databases Enhancement ZIP](../downloads/databases/database-enhancement.zip)
+- [Databases Narrative](../downloads/databases/database-narrative.docx)
