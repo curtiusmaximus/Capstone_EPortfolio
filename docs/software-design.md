@@ -1,4 +1,4 @@
 ## Artifact Files
 
-- [Enhanced DriverPass Artifact](../downloads/software-design/enhanced/)
-- [Enhancement Narrative (Software Design & Engineering)](../downloads/software-design/narrative/)
+- [Software Design Enhancement ZIP](../downloads/software-design/software-design-enhancement.zip)
+- [Software Design Narrative](../downloads/software-design/software-design-narrative.docx)
