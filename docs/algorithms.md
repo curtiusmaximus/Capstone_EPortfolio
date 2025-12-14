@@ -1,4 +1,4 @@
 ## Artifact Files
 
-- [Enhanced Hash Table Artifact](../downloads/algorithms/enhanced/)
-- [Enhancement Narrative (Algorithms & Data Structures)](../downloads/algorithms/narrative/)
+- [Algorithms Enhancement ZIP](../downloads/algorithms/algorithm-enhancement.zip)
+- [Algorithms Narrative](../downloads/algorithms/algorithm-narrative.docx)
