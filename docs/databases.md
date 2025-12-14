@@ -1,4 +1,4 @@
 ## Artifact Files
 
-- [Databases Enhancement ZIP](../downloads/databases/database-enhancement.zip)
-- [Databases Narrative](../downloads/databases/database-narrative.docx)
+- [Databases Enhancement ZIP](https://raw.githubusercontent.com/curtiusmaximus/Capstone_EPortfolio/main/downloads/databases/database-enhancement.zip)
+- [Databases Narrative](https://raw.githubusercontent.com/curtiusmaximus/Capstone_EPortfolio/main/downloads/databases/database-narrative.docx)
